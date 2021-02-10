@@ -2,14 +2,14 @@
 <manifest>
 	<remote name="wulan17-dt"
 		fetch="https://github.com/wulan17"
-		revision="dev/11" />
+		revision="11" />
 
 	<remote name="wulan17-kernel"
 		fetch="https://github.com/wulan17"
 		revision="11-nad" />
 	<remote name="nad"
 		fetch="https://github.com/NusantaraROM-Devices/"
-		revision="dev/11"
+		revision="11"
 		/>
 
 	<project path="device/xiaomi/cactus" name="device_xiaomi_cactus" remote="nad" revision="11" />
