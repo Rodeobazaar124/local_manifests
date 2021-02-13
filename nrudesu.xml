@@ -15,7 +15,7 @@
 		fetch="https://github.com/LineageOS/"
 		revision="lineage-17.1"
 		/>
-	<project path="device/xiaomi/certus" name="device_xiaomi_cereus" remote="nad" />
+	<project path="device/xiaomi/certus" name="device_xiaomi_certus" remote="nad" />
 	<project path="device/xiaomi/mt6765-common" name="android_device_xiaomi_mt6765-common" remote="wulan17-dt" />
 	<project path="kernel/xiaomi/mt6765" name="android_kernel_xiaomi_mt6765" remote="wulan17-kernel" />
 	<project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="wulan17-dt" />
