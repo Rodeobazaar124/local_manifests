@@ -8,7 +8,7 @@
 		fetch="https://github.com/NusantaraROM-Devices/"
 		revision="11"
 		/>
-	<project path="device/xiaomi/certus" name="device_xiaomi_certus" remote="nad" />
+	<project path="device/xiaomi/certus" name="device_xiaomi_certus" remote="wulan17" revision="dev/11" />
 	<project path="kernel/xiaomi/mt6765" name="android_kernel_xiaomi_mt6765" remote="wulan17" revision="11-nad" />
 	<project path="vendor/xiaomi" name="proprietary_vendor_xiaomi" remote="wulan17" revision="10"/>
 </manifest>
