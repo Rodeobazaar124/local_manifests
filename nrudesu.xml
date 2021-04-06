@@ -4,8 +4,8 @@
 		fetch="https://github.com/wulan17"
 		 />
 
-	<remote name="nad"
-		fetch="https://github.com/NusantaraROM-Devices/"
+	<remote name="kos"
+		fetch="https://github.com/Komodo-OS-Devices/"
 		revision="11"
 		/>
 	<project path="device/xiaomi/certus" name="android_device_xiaomi_certus" remote="wulan17" revision="dev/11" />
