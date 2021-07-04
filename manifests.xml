@@ -7,7 +7,7 @@
 	<remote name="wulan17-gitlab"
 		fetch="https://gitlab.com/wulan17"
 		 />
-	<project path="device/xiaomi/certus" name="device_xiaomi_certus" remote="wulan17" revision="staging/11" />
+	<project path="device/xiaomi/certus" name="android_device_xiaomi_certus" remote="wulan17" revision="staging/11" />
 	<project path="kernel/xiaomi/mt6765" name="android_kernel_xiaomi_mt6765" remote="wulan17" revision="staging/10-alps" />
 	<project path="prebuilts/gcc/linux-x86/arm/arm-none-linux-gnueabihf-9.2" name="prebuilts_gcc_linux-x86_arm_arm-none-linux-gnueabihf" remote="wulan17-gitlab" revision="9.2" />
 </manifest>
